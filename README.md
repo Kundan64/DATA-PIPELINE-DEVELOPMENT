@@ -18,7 +18,7 @@
 
 Data pipeline development is a crucial aspect of data engineering that involves automating the process of extracting, transforming, and loading (ETL) data. A well-structured data pipeline ensures efficient data preprocessing, transformation, and loading, enabling machine learning models and analytics systems to function effectively. This document explores the key aspects of developing a data pipeline using Python, pandas, and scikit-learn.
 
-### ** Understanding the Data**
+### **Understanding the Data**
 
 The first step in developing a data pipeline is to load and explore the dataset. In this case, we use the Titanic dataset, a commonly used dataset in machine learning. Using pandas, we can load the dataset and inspect its structure:
 
